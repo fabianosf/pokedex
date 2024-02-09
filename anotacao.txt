@@ -1,0 +1,15 @@
+# Anotacao CSS
+
+body {
+    background-color: blanchedalmond;      
+}
+
+
+
+/* se tiver menos de 800px  mudara a cor para black
+@media (max-width: 800px) {
+    body {
+        background-color: black;
+    }
+}
+*/
